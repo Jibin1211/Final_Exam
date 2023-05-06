@@ -1,4 +1,4 @@
-﻿# Hedvig
+﻿# HEDVIG
 
 ##  Introduction 
 Hedvig is a private, hybrid and multi-cloud envirnoment, mainly used by business purpose. It contain X86 hardware support which helps to move from hyper-scale to hyper-converged. It allows to store metadata, big data with a proper structure to the data.
